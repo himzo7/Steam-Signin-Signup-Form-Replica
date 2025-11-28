@@ -328,21 +328,24 @@ a {
   width: 60%;
 }
 
-.sgn,
-.pswd {
+.sgn{
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 0.02em;
-}
-
-.sgn {
   color: #1999ff;
   font-weight: 500;
 }
 
 .pswd {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  margin-top: 10px;
+  margin-bottom: 5px;
   color: #afafaf;
 }
+
+
 
 .input-box {
   width: 100%;
@@ -634,4 +637,5 @@ footer{
 .footer-valve-links img{
   width: 16px;
   height: 16px;
+
 }
