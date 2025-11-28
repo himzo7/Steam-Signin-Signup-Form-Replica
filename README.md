@@ -1,4 +1,4 @@
-# Steam Sign-in & Sign-up Form Replica
+<h1 align="center"> Steam Sign-in & Sign-up Form Replica</h1>
 
 This is a school project replicating Steam's sign-in and sign-up forms using HTML, CSS, and JavaScript. It's a static front-end demo for learning purposes, focusing on form validation, responsive design, and UI interactions. No real data is collected or sent anywhere—everything is simulated on the client side. Created as part of a web development class to practice cloning real-world websites.
 
