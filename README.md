@@ -38,7 +38,7 @@ cd Steam-Signin-Signup-Form-Replica
 
 3. **How to Use**:
 - Start at `index.html`: Click the button to go to login.
-- Login (`sites/login.html`): Enter fake email/password; validation shows errors.
+- Login (`sites/login.html`): Enter **Username: testuser** and **Password: 12345** to be redirected to original Steam page.
 - Register (`sites/register.html`): Fill email, confirm, select country, agree to terms. Age popup appears—choose 15+ to proceed.
 - Create Account (`sites/createacc.html`): Set username/password with strength checks. Success popup on submit.
 - Test validation: Try invalid inputs to see warnings without page shifts.
